@@ -1,5 +1,5 @@
 ----------
-Here's a sample README.md file for your CycleGAN project:
+Here's a sample README.md file for CycleGAN project:
 
 **CycleGAN for Hubble Space Telescope Image Translation**
 ===========================================================
@@ -48,7 +48,7 @@ This project uses CycleGAN to translate images from the Hubble Space Telescope's
 **Model Weights**
 ----------------
 
-* Trained model weights are available on the Hugging Face Hub: [link to your HF model]
+* Trained model weights are available on the Hugging Face Hub: [https://huggingface.co/Raja-65/cycleGAN_hubble]
 * Model weights can be downloaded and used for inference
 
 **License**
@@ -59,8 +59,8 @@ This project uses CycleGAN to translate images from the Hubble Space Telescope's
 **Acknowledgments**
 ------------------
 
-* This project was developed as part of the Bachelor's Thesis Project (BTP) at [Your University Name]
-* Special thanks to [Your Supervisor's Name] for guidance and support
+* This project was developed as part of the Bachelor's Thesis Project (BTP) at [IIT INDORE]
+* Special thanks to [my BTP adviser DR.ARUNA TIWARI, IIT Indore] for guidance and support
 
 **References**
 ---------------
