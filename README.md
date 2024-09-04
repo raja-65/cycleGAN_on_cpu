@@ -33,6 +33,7 @@ This project uses CycleGAN to translate images from the Hubble Space Telescope's
 **Results**
 ------------
 
+![CycleGAN generated image](Figure_1.png)
 * Translated images from raw to processed and vice versa
 * Loss plots for generator and discriminator during training
 
